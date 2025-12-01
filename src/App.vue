@@ -184,8 +184,8 @@ export default {
         {
           id: 1,
           to: 'patrickbreehansenwork@hotmail.com',
-          subject: 'test',
-          message: 'yugedwagy udayyuga...',
+          subject: 'test subject',
+          message: 's',
           timestamp: new Date().toISOString()
         }
       ],

@@ -51,5 +51,4 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-/* Your existing styles remain the same */
 </style>
