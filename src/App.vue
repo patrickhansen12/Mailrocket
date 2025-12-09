@@ -183,7 +183,7 @@ export default {
       sentEmails: [
         {
           id: 1,
-          to: 'patrickbreehansenwork@hotmail.com',
+          to: 'patrickbroehansenwork@hotmail.com',
           subject: 'test subject',
           message: 's',
           timestamp: new Date().toISOString()
